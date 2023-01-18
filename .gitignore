@@ -45,7 +45,7 @@ build/
 # VS Code
 .vscode/
 
-# Package Files #
+# Package Files
 *.jar
 *.war
 *.nar
